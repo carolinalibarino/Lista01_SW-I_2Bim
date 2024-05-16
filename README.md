@@ -28,6 +28,7 @@ seja positivo.
 encapsulamento para garantir que o título e o autor não sejam vazios.
 10. Crie uma classe chamada Animal que tenha as propriedades Nome, Especie e Idade. Crie
 também um método chamado EmitirSom, que imprime na tela o som do animal.
+
 11.Crie uma classe "Carro" com os atributos "modelo", "ano" e "velocidade". Em seguida, crie um método para acelerar o
 carro (aumentando a velocidade em 10) e outro para frear o carro (diminuindo a velocidade em 10, mas nunca deixado a velocidade negativa)
 12) Crie uma classe Agenda que pode armazenar inúmeras pessoas e que seja capaz de realizar as
