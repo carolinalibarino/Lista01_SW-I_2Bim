@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\lab1-aluno\Downloads\exe04\AgendaTelefonica.cs" Link="AgendaTelefonica.cs" />
+    <Compile Include="C:\Users\lab1-aluno\Downloads\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
